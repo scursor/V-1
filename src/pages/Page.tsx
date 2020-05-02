@@ -18,7 +18,6 @@ const Page: React.FC = () => {
           <IonTitle>{name}</IonTitle>
         </IonToolbar>
       </IonHeader>
-
       <IonContent>
         <IonHeader collapse="condense">
           <IonToolbar>
